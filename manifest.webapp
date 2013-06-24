@@ -1,0 +1,12 @@
+{
+  "name": "XHRTest",
+  "description": "",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon128.png"
+  },
+  "type": "privileged",
+  "permissions": {
+    "systemXHR": {}
+  }
+}
